@@ -192,14 +192,8 @@ images/database.png
 
 #  Project Demonstration
 
-The demonstration video shows:
+This video demonstrates the main features of the Student Status Management System.
 
-- Opening the website.
-- Adding new student records.
-- Saving data to the database.
-- Displaying all students.
-- Using the Toggle button.
-- Updating the student's status.
 
 ---
 
