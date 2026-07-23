@@ -168,13 +168,13 @@ Table Structure
 
 ## Website Interface
 
-![Webpage Interface.png](Webpage Interface.png)
+![Webpage Interface](Webpage%20Interface.png)
 
 ---
 
 ## Database Table
 
-![Database Table.png](Database Table.png)
+![Database Table](Database%20Table.png)
 
 ```
 
@@ -183,6 +183,8 @@ Table Structure
 #  Project Demonstration
 
 This video demonstrates the main features of the Student Status Management System.
+
+[Watch Demonstration Video](./Demonstration.mp4.mp4)
 
 
 ---
