@@ -176,8 +176,6 @@ Table Structure
 
 ![Database Table](Database%20Table.png)
 
-```
-
 ---
 
 #  Project Demonstration
