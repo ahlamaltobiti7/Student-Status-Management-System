@@ -168,24 +168,14 @@ Table Structure
 
 ## Website Interface
 
-> Insert a screenshot of the main webpage here.
-
-Example:
-
-```
-images/website.png
-```
+![Webpage Interface.png](Webpage Interface.png)
 
 ---
 
 ## Database Table
 
-> Insert a screenshot of the students table from phpMyAdmin here.
+![Database Table.png](Database Table.png)
 
-Example:
-
-```
-images/database.png
 ```
 
 ---
