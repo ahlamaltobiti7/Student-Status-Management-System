@@ -191,7 +191,7 @@ This video demonstrates the main features of the Student Status Management Syste
 
 This project is not deployed online. It can be accessed locally using XAMPP after following the setup instructions.
 
-Local URL:
+Local Website URL:
 
 ```
 http://localhost/StudentStatus/index.php
@@ -215,7 +215,7 @@ C:\xampp\htdocs\
 student_db
 ```
 
-6. Create the students table.
+6. Create the students table in the `student_db` database.
 
 7. Open your browser.
 
