@@ -189,7 +189,9 @@ This video demonstrates the main features of the Student Status Management Syste
 
 #  Website Link
 
-You can access the project here:
+This project is not deployed online. It can be accessed locally using XAMPP after following the setup instructions.
+
+Local URL:
 
 ```
 http://localhost/StudentStatus/index.php
