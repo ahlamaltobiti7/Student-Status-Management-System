@@ -184,7 +184,7 @@ Table Structure
 
 This video demonstrates the main features of the Student Status Management System.
 
-[Watch Demonstration Video](./Demonstration.mp4.mp4)
+[Watch Demonstration Video](./Demonstration.mp4)
 
 
 ---
