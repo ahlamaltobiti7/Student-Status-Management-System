@@ -135,7 +135,9 @@ Provides client-side functionality.
 ## Database Name
 
 ```text
-student_db
+student_db (Local XAMPP)
+
+if0_42395061_student (InfinityFree)
 ```
 
 ## Table Name
@@ -195,9 +197,7 @@ The project is deployed on **InfinityFree**.
 
 Website URL:
 
-```
 https://ahlam-abdulgani-althobiti.site.je/index.php
-```
 
 ---
 
@@ -267,4 +267,3 @@ Through this project, I learned how to:
 
 ---
 
-Taif University
