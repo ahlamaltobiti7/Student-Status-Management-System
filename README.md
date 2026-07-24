@@ -173,13 +173,13 @@ students
 
 ## Website Interface
 
-![WebsiteInterface](Webpage%20Interface.png)
+![Website Interface](WebpageInterface.png)
 
 ---
 
 ## Database Table
 
-![DatabaseTable](Database%20Table.png)
+![Database Table](DatabaseTable.png)
 
 ---
 
