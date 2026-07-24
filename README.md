@@ -38,12 +38,16 @@ This project demonstrates the integration between a web interface, server-side s
 
 ```text
 StudentStatus/
+│── DatabaseTable.png
+│── README.md
+│── WebpageInterface.png
+│── db.php
+│── demo.mp4
 │── index.php
 │── insert.php
-│── toggle.php
-│── db.php
+│── script.js
 │── style.css
-└── script.js
+└── toggle.php
 ```
 
 ---
