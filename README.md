@@ -173,13 +173,13 @@ students
 
 ## Website Interface
 
-![Website Interface](Webpage%20Interface.png)
+![WebsiteInterface](Webpage%20Interface.png)
 
 ---
 
 ## Database Table
 
-![Database Table](Database%20Table.png)
+![DatabaseTable](Database%20Table.png)
 
 ---
 
@@ -187,7 +187,7 @@ students
 
 This video demonstrates the main features of the Student Status Management System, including adding students, displaying records, and updating the status using the Toggle button.
 
-[Watch Demonstration Video](./Demonstration.mp4)
+[Watch Demonstration Video](./demo.mp4)
 
 ---
 
