@@ -21,8 +21,8 @@ This project demonstrates the integration between a web interface, server-side s
 
 # Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript (Fetch API)
 - PHP
 - MySQL
